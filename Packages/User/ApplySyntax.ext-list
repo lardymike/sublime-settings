@@ -1,0 +1,10 @@
+{
+	"INI":
+	[
+		"ini.dist",
+		".gitconfig",
+		".gitignore",
+		".gitattributes",
+		".npmrc"
+	]
+}

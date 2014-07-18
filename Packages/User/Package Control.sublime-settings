@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"FreeMarker",
+		"Git",
+		"INI",
+		"LESS",
+		"Puppet",
+		"SublimeLinter",
+		"SublimeLinter-contrib-puppet",
+		"SyncedSideBar"
+	]
+}
