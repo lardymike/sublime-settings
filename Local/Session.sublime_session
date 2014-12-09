@@ -1,0 +1,2156 @@
+{
+	"folder_history":
+	[
+		"/D/VMachines/opencpu-developer",
+		"/D/VMachines/lwisapp-developer",
+		"/D/Projects/puppet/puppet-module",
+		"/D/Projects/puppet/plone",
+		"/D/Projects/packer-ubuntu-vm",
+		"/D/VMachines/lwisportal-developer",
+		"/D/VMachines/imp-developer",
+		"/D/Projects/web/bootstrap-theme-test",
+		"/D/Projects/web/bootstrap-theme-skeleton",
+		"/D/Projects/web/bootstrap-theme-ceh",
+		"/D/Projects/web/ceh-bootstrap-theme",
+		"/D/Projects/web/appdev_frontend_toolkit",
+		"/D/Projects/web/eidc_frontend_toolkit",
+		"/D/Projects/web/eidc_frontend_toolkit/components",
+		"/D/VMachines/sosweb-dev",
+		"/D/VMachines/puppet-developer",
+		"/D/Projects/puppet/role",
+		"/D/Projects/puppet/profile",
+		"/D/Projects/puppet/configuration",
+		"/D/VMachines/cig-developer",
+		"/D/VMachines/cig-developer/catalogue_config",
+		"/D/VMachines/cig-developer/catalogue",
+		"/D/Projects/python",
+		"/D/Projects/basebox-packer",
+		"/D/Projects/thredds",
+		"/D/Projects/Vagrant",
+		"/D/Projects/puppet",
+		"/D/VMachines/ldap-test/modules/python",
+		"/D/Projects/puppet/cows",
+		"/D/Projects/thredds/dev1",
+		"/D/Projects/puppet/tomcat",
+		"/D/VMachines",
+		"/D/VMachines/ecomaps-dev",
+		"/D/VMachines/ecomaps-dev/puppet/manifests",
+		"/D/Projects/puppet/ceda-cows"
+	],
+	"last_version": 3066,
+	"last_window_id": 28,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 670.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lwis",
+						"lwisapp"
+					],
+					[
+						"install",
+						"install-dependencies"
+					],
+					[
+						"package",
+						"package_defaults"
+					],
+					[
+						"pyth",
+						"python-pip"
+					],
+					[
+						"pac",
+						"packages"
+					],
+					[
+						"gmep",
+						"gmepuser"
+					],
+					[
+						"page",
+						"page-header"
+					],
+					[
+						"have",
+						"have_content"
+					],
+					[
+						"docu",
+						"document-title"
+					],
+					[
+						"vcs",
+						"vcs_repos"
+					],
+					[
+						"J",
+						"JAASRoleClassName"
+					],
+					[
+						"JA",
+						"JAASAppName"
+					],
+					[
+						"JAAS",
+						"JAASAppName"
+					],
+					[
+						"enable",
+						"enableJAASReam"
+					],
+					[
+						"JAA",
+						"JAASRoleClassName"
+					],
+					[
+						"VMWARE",
+						"VMWARE_OUTPUT"
+					],
+					[
+						"CE",
+						"CEHAnnouncementsFolder"
+					],
+					[
+						"oracle",
+						"oracle-java8-installer"
+					],
+					[
+						"ce",
+						"centos65-vmware-amd64"
+					],
+					[
+						"enab",
+						"enable_ldap"
+					],
+					[
+						"en",
+						"enable_indexers"
+					],
+					[
+						"re",
+						"refreshonly"
+					],
+					[
+						"downloa",
+						"download-cache"
+					],
+					[
+						"down",
+						"download-cache"
+					],
+					[
+						"mount",
+						"mount_arcgis"
+					],
+					[
+						"plugin",
+						"plugin_defaults"
+					],
+					[
+						"instal",
+						"install_arcgis"
+					],
+					[
+						"in",
+						"install_arcgis"
+					],
+					[
+						"arcgis",
+						"arcgis_server"
+					],
+					[
+						"libaio",
+						"libaio_pkg"
+					],
+					[
+						"check",
+						"check_https"
+					],
+					[
+						"tomcat",
+						"tomcat_opts"
+					],
+					[
+						"tomc",
+						"tomcat_conf"
+					],
+					[
+						"role",
+						"rolename"
+					],
+					[
+						"moun",
+						"mount_points"
+					],
+					[
+						"mo",
+						"mount_points"
+					],
+					[
+						"oracle-",
+						"oracle-packages"
+					],
+					[
+						"client",
+						"client_dir"
+					],
+					[
+						"oracl",
+						"oracle_home"
+					],
+					[
+						"conf",
+						"configversion"
+					],
+					[
+						"content",
+						"contentfolder"
+					],
+					[
+						"cows",
+						"cowsclient"
+					],
+					[
+						"cow",
+						"cowsclient"
+					],
+					[
+						"dist",
+						"dist_server"
+					],
+					[
+						"pylons",
+						"pylonsversion"
+					],
+					[
+						"matplot",
+						"matplotlibversion"
+					],
+					[
+						"car",
+						"cairo-devel"
+					]
+				]
+			},
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"ack",
+						"Package Control: List Packages"
+					],
+					[
+						"pupp",
+						"Set Syntax: Puppet"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"discover",
+						"Package Control: Discover Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"free",
+						"Set Syntax: FreeMarker"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"ini",
+						"Set Syntax: INI"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"comi",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add Current File"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"she",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"push",
+						"Git: Push Current Branch"
+					],
+					[
+						"pull",
+						"Git: Pull"
+					],
+					[
+						"git",
+						"Git: Checkout Current File"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"batc",
+						"Set Syntax: Batch File"
+					],
+					[
+						"bat",
+						"Set Syntax: Batch File"
+					],
+					[
+						"batch",
+						"Set Syntax: Batch File"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					]
+				],
+				"width": 664.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"puppet ",
+					"puppet lint",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Projects/python/django-lwis/manage.py",
+				"/D/Downloads/catalina.out",
+				"/D/Downloads/pp_scheme_eunishabitatsDev.xml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/ploneapp1.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/role/manifests/lwisapp_server.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/lwisapp-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/lwisapp.pp",
+				"/D/Projects/puppet/role/manifests/gmep_portal.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/gmep-staging.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/django.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/gmep-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/role/manifests/cig_server.pp",
+				"/D/Projects/puppet/profile/manifests/cig_web.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/catalogue-staging.ukeof.org.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/motd.pp",
+				"/D/VMachines/puppet-developer/Vagrantfile",
+				"/D/VMachines/puppet-developer/agents.yaml",
+				"/D/Projects/puppet/profile/manifests/apt.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/lapuppet-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/Puppetfile",
+				"/D/Projects/puppet/puppet-module/manifests/init.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/lapuppet.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/imp-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/imp-prod.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/general_monitoring.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/gateway-developer.ceh.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/osfamily/Debian.yaml",
+				"/D/Projects/puppet/configuration/hieradata/common.yaml",
+				"/D/Downloads/redeploy-nexus.sh",
+				"/D/Projects/puppet/profile/manifests/plone.pp",
+				"/D/Projects/puppet/profile/manifests/vmware_workstation.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/lapc011.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/puppetmaster.pp",
+				"/D/VMachines/puppet-developer/puppet_ssl/private_keys/lapuppet-developer.nerc-lancaster.ac.uk.pem",
+				"/D/VMachines/puppet-developer/puppet_ssl/certs/lapuppet-developer.nerc-lancaster.ac.uk.pem",
+				"/D/Downloads/dump.trig",
+				"/D/Downloads/pp_project_envthes4.ppar",
+				"/D/Projects/puppet/configuration/hieradata/nodes/gateway.ceh.ac.uk.yaml",
+				"/D/VMachines/puppet-developer/Gemfile",
+				"/D/Projects/puppetmaster.sublime-project",
+				"/C/ProgramData/VMware/vmnetnat.conf",
+				"/D/Projects/puppet/profile/manifests/ceh_catalogue.pp",
+				"/D/Downloads/pydapAuthentication02.py",
+				"/C/Users/MW/AppData/Roaming/Sublime Text 3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+				"/D/Projects/puppet/concat/CHANGELOG",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/cx_Oracle-5.1.1-py2.7-linux-x86_64.egg/cx_Oracle.py",
+				"/D/Projects/puppet/concat/spec/unit/defines/concat_fragment_spec.rb",
+				"/D/VMachines/cig-developer/catalogue/web/node_modules/grunt/node_modules/.bin/coffee",
+				"/D/VMachines/cig-developer/spec/pages/search_spec.rb",
+				"/D/Projects/packer-ubuntu-vm/test/spec_helper.rb",
+				"/D/Projects/puppet/oldcows/spec/spec.opts",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.PluggableAuthService-1.7.7-py2.7.egg/Products/PluggableAuthService/plugins/www/spEditInterfaces.zpt",
+				"/D/Projects/Vagrant/eof-buildout/etc/scgi_params",
+				"/D/Projects/puppet/profile/manifests/selendroid.pp",
+				"/D/VMachines/cig-developer/catalogue/templates/html/skeleton.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/metadata.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_citation.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_ordering.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_temporalExtent.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_extent.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_contacts.html.tpl",
+				"/D/VMachines/cig-developer/Gemfile",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/pytz-2011g-py2.7.egg/pytz/zoneinfo/GB-Eire",
+				"/D/Projects/puppet/configuration/.gitignore",
+				"/D/Projects/puppet/.metadata/.plugins/org.eclipse.team.ui/syncParticipants.xml",
+				"/D/Projects/puppet/apt/metadata.json",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.CMFDefault-2.2.2-py2.7.egg/Products/CMFDefault/skins/zpt_content/metadata_edit_template.pt",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.Marshall-2.1.1-py2.7.egg/Products/Marshall/xml/mrExport.xml",
+				"/D/Projects/packer-ubuntu-vm/Makefile",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_description.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_keywords.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_title.html.tpl",
+				"/D/Projects/puppet/configuration/hieradata/nodes/catalogue-dev.ukeof.org.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/catalogue.ukeof.org.uk.yaml",
+				"/D/Projects/puppet/role/manifests/ukeof_catalogue.pp",
+				"/D/Projects/puppet/role/manifests/image_catalogue.pp",
+				"/D/Projects/puppet/profile/manifests/ukeof_catalogue.pp",
+				"/D/Projects/puppet/profile/manifests/image_catalogue.pp",
+				"/D/Projects/puppet/tds-dev1/catalog.xml",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/AccessControl-2.13.7-py2.7-linux-x86_64.egg/AccessControl/cAccessControl.c",
+				"/D/VMachines/cig-developer/catalogue/web/node_modules/bower/node_modules/cardinal/examples/.cardinalrc",
+				"/D/Projects/Vagrant/eof-buildout/.cache/eggs/AccessControl-3.0.8-py2.7-linux-x86_64.egg/AccessControl/cAccessControl.c",
+				"/D/Projects/Vagrant/eof-buildout/.cache/eggs/diazo-1.0.4-py2.7.egg/diazo/annotate-themes.xsl",
+				"/D/Projects/Vagrant/eof-buildout/.cache/eggs/Products.CMFPlone-4.3.2-py2.7.egg/Products/CMFPlone/catalog.zcml",
+				"/D/Projects/Vagrant/netsight-intranet/develop-eggs/Products.modelCatalogue.egg-link",
+				"/D/Projects/Vagrant/netsight-intranet/src/Products.modelCatalogue/src/Products.modelCatalogue.egg-info/dependency_links.txt",
+				"/D/VMachines/cig-developer/catalogue/web/node_modules/grunt/node_modules/.bin/js-yaml",
+				"/D/Projects/puppet/configuration/hiera.yaml",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.CMFEditions-2.1.7-py2.7.egg/Products/CMFEditions/skins/CMFEditions/revertversion.py",
+				"/D/Projects/puppet/stdlib/lib/puppet/parser/functions/reverse.rb",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.validation-2.0-py2.7.egg/Products/validation/validators/RegexValidator.py",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.PloneFormGen-1.7.2-py2.7.egg/Products/PloneFormGen/README_EMBEDDING.txt",
+				"/D/Projects/puppet/profile/README.markdown",
+				"/C/Users/MW/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/MW/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Projects/packer-ubuntu-vm/http/preseed.cfg",
+				"/D/Projects/Vagrant/netsight-intranet/eggs/distribute-0.6.36-py2.7.egg/pkg_resources.py",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/ZopeUndo-2.12.0-py2.7.egg/ZopeUndo/Prefix.py",
+				"/D/Projects/packer-ubuntu-vm/ubuntu1004.json",
+				"/D/Projects/packer-ubuntu-vm/test/ubuntu_spec.rb",
+				"/D/Projects/puppet/profile/manifests/users.pp",
+				"/C/Users/MW/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Projects/packer-ubuntu-vm/README.md",
+				"/D/Projects/puppet/puppet-tomcat/manifests/instance.pp",
+				"/D/Projects/puppet/stdlib/lib/puppet/parser/functions/is_numeric.rb",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/DocumentTemplate-2.13.2-py2.7-linux-x86_64.egg/DocumentTemplate/DT_InSV.py",
+				"/D/Projects/puppet/python/manifests/install.pp",
+				"/D/Projects/packer-ubuntu-vm/Makefile.local",
+				"/D/Projects/packer-ubuntu-vm/LICENSE",
+				"/D/Projects/packer-ubuntu-vm/CHANGELOG.md",
+				"/D/Projects/packer-ubuntu-vm/AUTHORS",
+				"/D/Projects/packer-ubuntu-vm/.gitignore",
+				"/D/Projects/packer-ubuntu-vm/.gitattributes",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.ResourceRegistries-2.0.6-py2.7.egg/Products/ResourceRegistries/tools/packer.py",
+				"/D/Projects/Vagrant/eidc-buildout/packages.cfg",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/pytz-2011g-py2.7.egg/pytz/zoneinfo/America/Porto_Acre",
+				"/D/VMachines/tds-developer/.gitignore",
+				"/D/VMachines/gmep-dev/Vagrantfile",
+				"/D/VMachines/gmep-dev/README.markdown",
+				"/D/VMachines/gmep-dev/gmepportal/gmepportal/wsgi.py",
+				"/D/Projects/puppet/configuration/hieradata/nodes/crowd.ceh.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/drupalapp1.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/plone/manifests/init.pp",
+				"/D/Projects/puppet/profile/manifests/drupal.pp",
+				"/D/Projects/puppet/profile/manifests/gmep_portal.pp",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.ExternalEditor-1.0-py2.7.egg/Products/ExternalEditor/win32/Python-License.txt",
+				"/D/Projects/puppet/configuration/puppet.conf",
+				"/D/VMachines/gmep-dev/puppet_ssl/public_keys/gmep-developer.nerc-lancaster.ac.uk.pem"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"D:\\Projects\\puppet\\profile\\manifests",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"gmepportal",
+					"package",
+					"django",
+					"194",
+					"_:node194cfio7tx5",
+					"cows_server",
+					"R::Package[",
+					"R::Package",
+					"\"/tmp/multimove_${version}.tar.gz\"",
+					"OpenCPU",
+					"opencpu",
+					"oracle_java",
+					"intranet_server",
+					"gateway.ceh.ac.uk",
+					"django",
+					"puppetlabs",
+					"EIDCAdminPa55wordHere",
+					"packages",
+					"concat",
+					"notify",
+					"\n	      	",
+					"div",
+					"span",
+					"div",
+					"caret_",
+					"href",
+					"=",
+					"   =",
+					"    ",
+					"gmep_portal",
+					"django",
+					"plone",
+					"postgre",
+					"eidc",
+					"JAAS",
+					"  \"",
+					"Ream",
+					"\n	",
+					"mkdir",
+					"box-cutter",
+					"vagrantcloud.com/box-cutter",
+					"vagrantcloud.com",
+					"+",
+					"precise",
+					"+",
+					"/",
+					"\"",
+					"http:",
+					"vnc",
+					"\n        ",
+					"jira",
+					"\n  ",
+					"esri",
+					"script",
+					"puppet",
+					"'now()'",
+					"'select max(id)+1 from cwd_group'",
+					"\"now()_1\"",
+					"\"now()\"",
+					"EXPORT_TABLE",
+					"'now()'",
+					"'select max(id)+1 from cwd_group'",
+					"ECOMAPS",
+					"confluence_server",
+					"confluence",
+					"en_US",
+					"present",
+					"python_imaging",
+					"                                                                                                                                                                                                                                                   ",
+					"\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"jaas",
+					"Realm",
+					"https:",
+					"now()",
+					"(select max(id)+1 from cwd_group)",
+					"now()",
+					"CWD_GROUP",
+					"now()",
+					"(select max(id)+1 from cwd_group)"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"cig",
+						"configuration\\hieradata\\nodes\\cig-staging.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"lwis",
+						"role\\manifests\\lwisapp_server.pp"
+					],
+					[
+						"django",
+						"profile\\manifests\\django.pp"
+					],
+					[
+						"deb",
+						"configuration\\hieradata\\osfamily\\Debian.yaml"
+					],
+					[
+						"lap",
+						"configuration\\hieradata\\nodes\\vagrant\\lapuppet-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"vmw",
+						"profile\\manifests\\vmware_workstation.pp"
+					],
+					[
+						"ploneapp",
+						"configuration\\hieradata\\nodes\\ploneapp1.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"gateway-develop",
+						"configuration\\hieradata\\nodes\\vagrant\\gateway-developer.ceh.ac.uk.yaml"
+					],
+					[
+						"spec_he",
+						"VMachines\\cig-developer\\spec\\spec_helper.rb"
+					],
+					[
+						"gem",
+						"VMachines\\cig-developer\\Gemfile"
+					],
+					[
+						".rspec",
+						"VMachines\\cig-developer\\.rspec"
+					],
+					[
+						"metadata_sep",
+						"VMachines\\cig-developer\\spec\\pages\\metadata_spec.rb"
+					],
+					[
+						"catalogue",
+						"configuration\\hieradata\\nodes\\catalogue-staging.ukeof.org.uk.yaml"
+					],
+					[
+						"prefer",
+						"C:\\Users\\MW\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Preferences.sublime-settings"
+					],
+					[
+						"packer-",
+						"packer-ubuntu-vm\\README.md"
+					],
+					[
+						"gmep",
+						"puppet\\profile\\manifests\\gmep_portal.pp"
+					],
+					[
+						"gmep-deve",
+						"puppet\\configuration\\hieradata\\nodes\\vagrant\\gmep-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"plone",
+						"puppet\\profile\\manifests\\plone.pp"
+					],
+					[
+						"wsgi",
+						"VMachines\\gmep-dev\\gmepportal\\gmepportal\\wsgi.py"
+					],
+					[
+						"vag",
+						"VMachines\\puppet-developer\\Vagrantfile"
+					],
+					[
+						"gmep-de",
+						"puppet\\configuration\\hieradata\\nodes\\vagrant\\gmep-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"gmepport",
+						"VMachines\\gmep-dev\\gmepportal\\gmepportal\\wsgi.py"
+					],
+					[
+						"notes",
+						"Neil notes"
+					],
+					[
+						"vagrant",
+						"VMachines\\puppet-developer\\Vagrantfile"
+					],
+					[
+						"",
+						"puppet\\configuration\\hieradata\\nodes\\vagrant\\gmep-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"crowd",
+						"puppet\\configuration\\hieradata\\nodes\\crowd.ceh.ac.uk.yaml"
+					],
+					[
+						"lapupp",
+						"puppet\\configuration\\hieradata\\nodes\\lapuppet.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"djan",
+						"puppet\\profile\\manifests\\django.pp"
+					],
+					[
+						"djang",
+						"puppet\\profile\\manifests\\django.pp"
+					],
+					[
+						"vagr",
+						"VMachines\\puppet-developer\\Vagrantfile"
+					],
+					[
+						"ploneinit.pp",
+						"puppet\\plone\\manifests\\init.pp"
+					],
+					[
+						"plone.pp",
+						"profile\\manifests\\plone.pp"
+					],
+					[
+						"lapuppet",
+						"configuration\\hieradata\\nodes\\lapuppet.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"crowd.",
+						"puppet\\configuration\\hieradata\\nodes\\crowd.ceh.ac.uk.yaml"
+					],
+					[
+						"vagran",
+						"VMachines\\puppet-developer\\Vagrantfile"
+					],
+					[
+						"tds-dev",
+						"configuration\\hieradata\\nodes\\vagrant\\tds-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"jaas",
+						"puppet\\puppet-tomcat\\templates\\jaas.config.erb"
+					],
+					[
+						"tds.p",
+						"puppet\\profile\\manifests\\tds.pp"
+					],
+					[
+						"instan",
+						"puppet\\puppet-tomcat\\manifests\\instance.pp"
+					],
+					[
+						"tds.pp",
+						"puppet\\profile\\manifests\\tds.pp"
+					],
+					[
+						"instance.p",
+						"puppet\\puppet-tomcat\\manifests\\instance.pp"
+					],
+					[
+						"instance.",
+						"puppet\\puppet-tomcat\\manifests\\instance.pp"
+					],
+					[
+						"tds-prod1",
+						"configuration\\hieradata\\nodes\\tds-prod1.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"tomcatinit",
+						"puppet\\puppet-tomcat\\manifests\\init.pp"
+					],
+					[
+						"tomcatini",
+						"puppet\\puppet-tomcat\\manifests\\init.pp"
+					],
+					[
+						"tomcat",
+						"profile\\manifests\\tomcat.pp"
+					],
+					[
+						"instance.pp",
+						"puppet\\puppet-tomcat\\manifests\\instance.pp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\Projects\\imp-developer.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 248.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1006.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lwis",
+						"lwisapp"
+					],
+					[
+						"install",
+						"install-dependencies"
+					],
+					[
+						"package",
+						"package_defaults"
+					],
+					[
+						"pyth",
+						"python-pip"
+					],
+					[
+						"pac",
+						"packages"
+					],
+					[
+						"gmep",
+						"gmepuser"
+					],
+					[
+						"page",
+						"page-header"
+					],
+					[
+						"have",
+						"have_content"
+					],
+					[
+						"docu",
+						"document-title"
+					],
+					[
+						"vcs",
+						"vcs_repos"
+					],
+					[
+						"J",
+						"JAASRoleClassName"
+					],
+					[
+						"JA",
+						"JAASAppName"
+					],
+					[
+						"JAAS",
+						"JAASAppName"
+					],
+					[
+						"enable",
+						"enableJAASReam"
+					],
+					[
+						"JAA",
+						"JAASRoleClassName"
+					],
+					[
+						"VMWARE",
+						"VMWARE_OUTPUT"
+					],
+					[
+						"CE",
+						"CEHAnnouncementsFolder"
+					],
+					[
+						"oracle",
+						"oracle-java8-installer"
+					],
+					[
+						"ce",
+						"centos65-vmware-amd64"
+					],
+					[
+						"enab",
+						"enable_ldap"
+					],
+					[
+						"en",
+						"enable_indexers"
+					],
+					[
+						"re",
+						"refreshonly"
+					],
+					[
+						"downloa",
+						"download-cache"
+					],
+					[
+						"down",
+						"download-cache"
+					],
+					[
+						"mount",
+						"mount_arcgis"
+					],
+					[
+						"plugin",
+						"plugin_defaults"
+					],
+					[
+						"instal",
+						"install_arcgis"
+					],
+					[
+						"in",
+						"install_arcgis"
+					],
+					[
+						"arcgis",
+						"arcgis_server"
+					],
+					[
+						"libaio",
+						"libaio_pkg"
+					],
+					[
+						"check",
+						"check_https"
+					],
+					[
+						"tomcat",
+						"tomcat_opts"
+					],
+					[
+						"tomc",
+						"tomcat_conf"
+					],
+					[
+						"role",
+						"rolename"
+					],
+					[
+						"moun",
+						"mount_points"
+					],
+					[
+						"mo",
+						"mount_points"
+					],
+					[
+						"oracle-",
+						"oracle-packages"
+					],
+					[
+						"client",
+						"client_dir"
+					],
+					[
+						"oracl",
+						"oracle_home"
+					],
+					[
+						"conf",
+						"configversion"
+					],
+					[
+						"content",
+						"contentfolder"
+					],
+					[
+						"cows",
+						"cowsclient"
+					],
+					[
+						"cow",
+						"cowsclient"
+					],
+					[
+						"dist",
+						"dist_server"
+					],
+					[
+						"pylons",
+						"pylonsversion"
+					],
+					[
+						"matplot",
+						"matplotlibversion"
+					],
+					[
+						"car",
+						"cairo-devel"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "puppet/role/manifests/wordpress_server.pp",
+					"settings":
+					{
+						"buffer_size": 342,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "puppet/configuration/hieradata/nodes/nerclawpapp1.nerc-lancaster.ac.uk.yaml",
+					"settings":
+					{
+						"buffer_size": 2450,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "puppet/profile/manifests/ssh.pp",
+					"settings":
+					{
+						"buffer_size": 916,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "puppet/profile/manifests/wordpress.pp",
+					"settings":
+					{
+						"buffer_size": 469,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"ack",
+						"Package Control: List Packages"
+					],
+					[
+						"pupp",
+						"Set Syntax: Puppet"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"discover",
+						"Package Control: Discover Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"free",
+						"Set Syntax: FreeMarker"
+					],
+					[
+						"com",
+						"Git: Commit"
+					],
+					[
+						"git ad",
+						"Git: Add Current File"
+					],
+					[
+						"ini",
+						"Set Syntax: INI"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"comi",
+						"Git: Commit"
+					],
+					[
+						"add",
+						"Git: Add Current File"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"she",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"space",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"push",
+						"Git: Push Current Branch"
+					],
+					[
+						"pull",
+						"Git: Pull"
+					],
+					[
+						"git",
+						"Git: Checkout Current File"
+					],
+					[
+						"convert",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"batc",
+						"Set Syntax: Batch File"
+					],
+					[
+						"bat",
+						"Set Syntax: Batch File"
+					],
+					[
+						"batch",
+						"Set Syntax: Batch File"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					]
+				],
+				"width": 664.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"puppet ",
+					"puppet lint",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Projects/puppet/configuration",
+				"/D/Projects/puppet/configuration/hieradata",
+				"/D/Projects/puppet/configuration/hieradata/nodes",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant",
+				"/D/Projects/puppet/configuration/hieradata/osfamily",
+				"/D/Projects/puppet/profile",
+				"/D/Projects/puppet/profile/manifests",
+				"/D/Projects/puppet/role",
+				"/D/Projects/puppet/role/manifests"
+			],
+			"file_history":
+			[
+				"/D/Projects/puppet/configuration/hieradata/nodes/tds-water1.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/cig-staging.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/role/manifests/ecomaps_server.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/ecomaps-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/ecomaps.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/lwisapp1-staging.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/drupalapp1.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/lwisapp-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/ssl.pp",
+				"/D/Projects/nagios-ogc-plugins/check_wms",
+				"/D/Documents/catalina.out",
+				"/D/Documents/localhost_access_log.2014-11-05.txt",
+				"/D/Projects/thredds/tds-water1/catalog.xml",
+				"/D/Projects/thredds/tds-water1/gb1km.xml",
+				"/D/Projects/thredds/tds-water1/threddsConfig.xml",
+				"/D/Projects/thredds/tds-prod1/gb1km.xml",
+				"/D/Projects/thredds/tds-prod1/CEH-GEAR.xml",
+				"/N/Documents/Python/penpixemail/testemail.py",
+				"/D/Projects/puppet/role/manifests/opencpu_server.pp",
+				"/D/Projects/puppet/profile/manifests/multimove.pp",
+				"/D/Projects/puppet/profile/manifests/opencpu.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/opencpu-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/opencpu-staging.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/poolparty.pp",
+				"/D/Projects/puppet/profile/manifests/motd.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/poolparty-prod.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/jira.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/lwisportal-staging.nerc-lancaster.ac.uk.yaml",
+				"/D/Downloads/nsb-id_rsa.pub",
+				"/D/Projects/puppet/role/manifests/plone_server.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/bamboo.ceh.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/crowd.ceh.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/ukleon-prod.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/stash.ceh.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/r.pp",
+				"/D/Projects/puppet/configuration/hieradata/common.yaml",
+				"/D/Projects/python/django-lwis/manage.py",
+				"/D/Downloads/catalina.out",
+				"/D/Downloads/pp_scheme_eunishabitatsDev.xml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/ploneapp1.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/role/manifests/lwisapp_server.pp",
+				"/D/Projects/puppet/profile/manifests/lwisapp.pp",
+				"/D/Projects/puppet/role/manifests/gmep_portal.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/gmep-staging.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/django.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/gmep-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/role/manifests/cig_server.pp",
+				"/D/Projects/puppet/profile/manifests/cig_web.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/catalogue-staging.ukeof.org.uk.yaml",
+				"/D/VMachines/puppet-developer/Vagrantfile",
+				"/D/VMachines/puppet-developer/agents.yaml",
+				"/D/Projects/puppet/profile/manifests/apt.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/lapuppet-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/Puppetfile",
+				"/D/Projects/puppet/puppet-module/manifests/init.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/lapuppet.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/imp-developer.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/imp-prod.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/general_monitoring.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/vagrant/gateway-developer.ceh.ac.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/osfamily/Debian.yaml",
+				"/D/Downloads/redeploy-nexus.sh",
+				"/D/Projects/puppet/profile/manifests/plone.pp",
+				"/D/Projects/puppet/profile/manifests/vmware_workstation.pp",
+				"/D/Projects/puppet/configuration/hieradata/nodes/lapc011.nerc-lancaster.ac.uk.yaml",
+				"/D/Projects/puppet/profile/manifests/puppetmaster.pp",
+				"/D/VMachines/puppet-developer/puppet_ssl/private_keys/lapuppet-developer.nerc-lancaster.ac.uk.pem",
+				"/D/VMachines/puppet-developer/puppet_ssl/certs/lapuppet-developer.nerc-lancaster.ac.uk.pem",
+				"/D/Downloads/dump.trig",
+				"/D/Downloads/pp_project_envthes4.ppar",
+				"/D/Projects/puppet/configuration/hieradata/nodes/gateway.ceh.ac.uk.yaml",
+				"/D/VMachines/puppet-developer/Gemfile",
+				"/D/Projects/puppetmaster.sublime-project",
+				"/C/ProgramData/VMware/vmnetnat.conf",
+				"/D/Projects/puppet/profile/manifests/ceh_catalogue.pp",
+				"/D/Downloads/pydapAuthentication02.py",
+				"/C/Users/MW/AppData/Roaming/Sublime Text 3/Packages/Better CoffeeScript/CoffeeScript.sublime-settings",
+				"/D/Projects/puppet/concat/CHANGELOG",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/cx_Oracle-5.1.1-py2.7-linux-x86_64.egg/cx_Oracle.py",
+				"/D/Projects/puppet/concat/spec/unit/defines/concat_fragment_spec.rb",
+				"/D/VMachines/cig-developer/catalogue/web/node_modules/grunt/node_modules/.bin/coffee",
+				"/D/VMachines/cig-developer/spec/pages/search_spec.rb",
+				"/D/Projects/packer-ubuntu-vm/test/spec_helper.rb",
+				"/D/Projects/puppet/oldcows/spec/spec.opts",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.PluggableAuthService-1.7.7-py2.7.egg/Products/PluggableAuthService/plugins/www/spEditInterfaces.zpt",
+				"/D/Projects/Vagrant/eof-buildout/etc/scgi_params",
+				"/D/Projects/puppet/profile/manifests/selendroid.pp",
+				"/D/VMachines/cig-developer/catalogue/templates/html/skeleton.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/metadata.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_citation.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_ordering.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_temporalExtent.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_extent.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_contacts.html.tpl",
+				"/D/VMachines/cig-developer/Gemfile",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/pytz-2011g-py2.7.egg/pytz/zoneinfo/GB-Eire",
+				"/D/Projects/puppet/configuration/.gitignore",
+				"/D/Projects/puppet/.metadata/.plugins/org.eclipse.team.ui/syncParticipants.xml",
+				"/D/Projects/puppet/apt/metadata.json",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.CMFDefault-2.2.2-py2.7.egg/Products/CMFDefault/skins/zpt_content/metadata_edit_template.pt",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.Marshall-2.1.1-py2.7.egg/Products/Marshall/xml/mrExport.xml",
+				"/D/Projects/packer-ubuntu-vm/Makefile",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_description.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_keywords.html.tpl",
+				"/D/VMachines/cig-developer/catalogue/templates/html/_title.html.tpl",
+				"/D/Projects/puppet/configuration/hieradata/nodes/catalogue-dev.ukeof.org.uk.yaml",
+				"/D/Projects/puppet/configuration/hieradata/nodes/catalogue.ukeof.org.uk.yaml",
+				"/D/Projects/puppet/role/manifests/ukeof_catalogue.pp",
+				"/D/Projects/puppet/role/manifests/image_catalogue.pp",
+				"/D/Projects/puppet/profile/manifests/ukeof_catalogue.pp",
+				"/D/Projects/puppet/profile/manifests/image_catalogue.pp",
+				"/D/Projects/puppet/tds-dev1/catalog.xml",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/AccessControl-2.13.7-py2.7-linux-x86_64.egg/AccessControl/cAccessControl.c",
+				"/D/VMachines/cig-developer/catalogue/web/node_modules/bower/node_modules/cardinal/examples/.cardinalrc",
+				"/D/Projects/Vagrant/eof-buildout/.cache/eggs/AccessControl-3.0.8-py2.7-linux-x86_64.egg/AccessControl/cAccessControl.c",
+				"/D/Projects/Vagrant/eof-buildout/.cache/eggs/diazo-1.0.4-py2.7.egg/diazo/annotate-themes.xsl",
+				"/D/Projects/Vagrant/eof-buildout/.cache/eggs/Products.CMFPlone-4.3.2-py2.7.egg/Products/CMFPlone/catalog.zcml",
+				"/D/Projects/Vagrant/netsight-intranet/develop-eggs/Products.modelCatalogue.egg-link",
+				"/D/Projects/Vagrant/netsight-intranet/src/Products.modelCatalogue/src/Products.modelCatalogue.egg-info/dependency_links.txt",
+				"/D/VMachines/cig-developer/catalogue/web/node_modules/grunt/node_modules/.bin/js-yaml",
+				"/D/Projects/puppet/configuration/hiera.yaml",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.CMFEditions-2.1.7-py2.7.egg/Products/CMFEditions/skins/CMFEditions/revertversion.py",
+				"/D/Projects/puppet/stdlib/lib/puppet/parser/functions/reverse.rb",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.validation-2.0-py2.7.egg/Products/validation/validators/RegexValidator.py",
+				"/D/Projects/Vagrant/eidchub-buildout/eggs/Products.PloneFormGen-1.7.2-py2.7.egg/Products/PloneFormGen/README_EMBEDDING.txt",
+				"/D/Projects/puppet/profile/README.markdown",
+				"/C/Users/MW/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/MW/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"<project>",
+					"D:\\Projects\\puppet\\configuration",
+					"D:\\Projects\\puppet\\profile\\manifests",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"drupal",
+					"drupal_server",
+					"string:$portal_url/search_form?SearchableText=${request/SearchableText|",
+					"installed",
+					"::python::pip",
+					"python::pip",
+					"databases",
+					"gmepportal",
+					"package",
+					"django",
+					"194",
+					"_:node194cfio7tx5",
+					"cows_server",
+					"R::Package[",
+					"R::Package",
+					"\"/tmp/multimove_${version}.tar.gz\"",
+					"OpenCPU",
+					"opencpu",
+					"oracle_java",
+					"intranet_server",
+					"gateway.ceh.ac.uk",
+					"django",
+					"puppetlabs",
+					"EIDCAdminPa55wordHere",
+					"packages",
+					"concat",
+					"notify",
+					"\n	      	",
+					"div",
+					"span",
+					"div",
+					"caret_",
+					"href",
+					"=",
+					"   =",
+					"    ",
+					"gmep_portal",
+					"django",
+					"plone",
+					"postgre",
+					"eidc",
+					"JAAS",
+					"  \"",
+					"Ream",
+					"\n	",
+					"mkdir",
+					"box-cutter",
+					"vagrantcloud.com/box-cutter",
+					"vagrantcloud.com",
+					"+",
+					"precise",
+					"+",
+					"/",
+					"\"",
+					"http:",
+					"vnc",
+					"\n        ",
+					"jira",
+					"\n  ",
+					"esri",
+					"script",
+					"puppet",
+					"'now()'",
+					"'select max(id)+1 from cwd_group'",
+					"\"now()_1\"",
+					"\"now()\"",
+					"EXPORT_TABLE",
+					"'now()'",
+					"'select max(id)+1 from cwd_group'",
+					"ECOMAPS",
+					"confluence_server",
+					"confluence",
+					"en_US",
+					"present",
+					"python_imaging",
+					"                                                                                                                                                                                                                                                   ",
+					"\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"jaas",
+					"Realm",
+					"https:",
+					"now()",
+					"(select max(id)+1 from cwd_group)",
+					"now()",
+					"CWD_GROUP",
+					"now()",
+					"(select max(id)+1 from cwd_group)"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "puppet/role/manifests/wordpress_server.pp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 342,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										289,
+										289
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "puppet/configuration/hieradata/nodes/nerclawpapp1.nerc-lancaster.ac.uk.yaml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2450,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1520,
+										1520
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 441.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "puppet/profile/manifests/ssh.pp",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 916,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "puppet/profile/manifests/wordpress.pp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 469,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										298,
+										298
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/Puppet/Syntaxes/Puppet.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,1024,211,296,1233",
+			"project": "puppetmaster.sublime-project",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"cig",
+						"configuration\\hieradata\\nodes\\cig-staging.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"lwis",
+						"role\\manifests\\lwisapp_server.pp"
+					],
+					[
+						"django",
+						"profile\\manifests\\django.pp"
+					],
+					[
+						"deb",
+						"configuration\\hieradata\\osfamily\\Debian.yaml"
+					],
+					[
+						"lap",
+						"configuration\\hieradata\\nodes\\vagrant\\lapuppet-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"vmw",
+						"profile\\manifests\\vmware_workstation.pp"
+					],
+					[
+						"ploneapp",
+						"configuration\\hieradata\\nodes\\ploneapp1.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"gateway-develop",
+						"configuration\\hieradata\\nodes\\vagrant\\gateway-developer.ceh.ac.uk.yaml"
+					],
+					[
+						"spec_he",
+						"VMachines\\cig-developer\\spec\\spec_helper.rb"
+					],
+					[
+						"gem",
+						"VMachines\\cig-developer\\Gemfile"
+					],
+					[
+						".rspec",
+						"VMachines\\cig-developer\\.rspec"
+					],
+					[
+						"metadata_sep",
+						"VMachines\\cig-developer\\spec\\pages\\metadata_spec.rb"
+					],
+					[
+						"catalogue",
+						"configuration\\hieradata\\nodes\\catalogue-staging.ukeof.org.uk.yaml"
+					],
+					[
+						"prefer",
+						"C:\\Users\\MW\\AppData\\Roaming\\Sublime Text 3\\Packages\\Default\\Preferences.sublime-settings"
+					],
+					[
+						"packer-",
+						"packer-ubuntu-vm\\README.md"
+					],
+					[
+						"gmep",
+						"puppet\\profile\\manifests\\gmep_portal.pp"
+					],
+					[
+						"gmep-deve",
+						"puppet\\configuration\\hieradata\\nodes\\vagrant\\gmep-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"plone",
+						"puppet\\profile\\manifests\\plone.pp"
+					],
+					[
+						"wsgi",
+						"VMachines\\gmep-dev\\gmepportal\\gmepportal\\wsgi.py"
+					],
+					[
+						"vag",
+						"VMachines\\puppet-developer\\Vagrantfile"
+					],
+					[
+						"gmep-de",
+						"puppet\\configuration\\hieradata\\nodes\\vagrant\\gmep-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"gmepport",
+						"VMachines\\gmep-dev\\gmepportal\\gmepportal\\wsgi.py"
+					],
+					[
+						"notes",
+						"Neil notes"
+					],
+					[
+						"vagrant",
+						"VMachines\\puppet-developer\\Vagrantfile"
+					],
+					[
+						"",
+						"puppet\\configuration\\hieradata\\nodes\\vagrant\\gmep-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"crowd",
+						"puppet\\configuration\\hieradata\\nodes\\crowd.ceh.ac.uk.yaml"
+					],
+					[
+						"lapupp",
+						"puppet\\configuration\\hieradata\\nodes\\lapuppet.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"djan",
+						"puppet\\profile\\manifests\\django.pp"
+					],
+					[
+						"djang",
+						"puppet\\profile\\manifests\\django.pp"
+					],
+					[
+						"vagr",
+						"VMachines\\puppet-developer\\Vagrantfile"
+					],
+					[
+						"ploneinit.pp",
+						"puppet\\plone\\manifests\\init.pp"
+					],
+					[
+						"plone.pp",
+						"profile\\manifests\\plone.pp"
+					],
+					[
+						"lapuppet",
+						"configuration\\hieradata\\nodes\\lapuppet.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"crowd.",
+						"puppet\\configuration\\hieradata\\nodes\\crowd.ceh.ac.uk.yaml"
+					],
+					[
+						"vagran",
+						"VMachines\\puppet-developer\\Vagrantfile"
+					],
+					[
+						"tds-dev",
+						"configuration\\hieradata\\nodes\\vagrant\\tds-developer.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"jaas",
+						"puppet\\puppet-tomcat\\templates\\jaas.config.erb"
+					],
+					[
+						"tds.p",
+						"puppet\\profile\\manifests\\tds.pp"
+					],
+					[
+						"instan",
+						"puppet\\puppet-tomcat\\manifests\\instance.pp"
+					],
+					[
+						"tds.pp",
+						"puppet\\profile\\manifests\\tds.pp"
+					],
+					[
+						"instance.p",
+						"puppet\\puppet-tomcat\\manifests\\instance.pp"
+					],
+					[
+						"instance.",
+						"puppet\\puppet-tomcat\\manifests\\instance.pp"
+					],
+					[
+						"tds-prod1",
+						"configuration\\hieradata\\nodes\\tds-prod1.nerc-lancaster.ac.uk.yaml"
+					],
+					[
+						"tomcatinit",
+						"puppet\\puppet-tomcat\\manifests\\init.pp"
+					],
+					[
+						"tomcatini",
+						"puppet\\puppet-tomcat\\manifests\\init.pp"
+					],
+					[
+						"tomcat",
+						"profile\\manifests\\tomcat.pp"
+					],
+					[
+						"instance.pp",
+						"puppet\\puppet-tomcat\\manifests\\instance.pp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\Projects\\imp-developer.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 248.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 25,
+			"workspace_name": "/D/Projects/puppetmaster.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/Projects/puppetmaster.sublime-workspace",
+			"/D/Projects/lwisapp-developer.sublime-workspace",
+			"/D/Projects/lwis-developer.sublime-workspace",
+			"/D/Projects/opencpu-developer.sublime-workspace",
+			"/D/Projects/ceh-catalogue.sublime-workspace",
+			"/D/Projects/frontend-toolkit.sublime-workspace",
+			"/D/Projects/packer.sublime-workspace",
+			"/D/Projects/imp-developer.sublime-workspace",
+			"/D/Projects/uberproject.sublime-workspace"
+		]
+	}
+}

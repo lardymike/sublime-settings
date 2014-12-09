@@ -1,14 +1,33 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ApacheConf.tmLanguage",
 		"ApplySyntax",
+		"Better CoffeeScript",
+		"Better Completion",
+		"Better RSpec",
+		"Bootstrap 3 Snippets",
+		"Bower",
+		"BracketHighlighter",
+		"ColorPicker",
 		"FreeMarker",
 		"Git",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
 		"INI",
 		"LESS",
+		"Markdown Preview",
 		"Puppet",
+		"Readme-Helper",
+		"SideBarEnhancements",
+		"SideBarGit",
 		"SublimeLinter",
+		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-puppet",
-		"SyncedSideBar"
+		"SublimeLinter-html-tidy",
+		"SyncedSideBar",
+		"Theme - Soda"
 	]
 }
