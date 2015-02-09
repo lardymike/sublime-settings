@@ -4,7 +4,6 @@
 	],
 	"installed_dependencies":
 	[
-		"0_package_control_loader",
 		"bz2"
 	],
 	"installed_packages":
@@ -26,6 +25,8 @@
 		"HTML-CSS-JS Prettify",
 		"INI",
 		"LESS",
+		"LiveReload",
+		"LiveStyle",
 		"Markdown Preview",
 		"Package Control",
 		"Puppet",
