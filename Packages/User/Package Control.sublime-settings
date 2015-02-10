@@ -2,10 +2,6 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -19,10 +15,12 @@
 		"Bower",
 		"BracketHighlighter",
 		"ColorPicker",
+		"DeleteBlankLines",
 		"FreeMarker",
 		"Git",
 		"Gitignore",
 		"HTML-CSS-JS Prettify",
+		"HTML5",
 		"INI",
 		"LESS",
 		"LiveStyle",
@@ -38,5 +36,8 @@
 		"SublimeLinter-html-tidy",
 		"SyncedSideBar",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
 	]
 }
