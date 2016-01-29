@@ -1,0 +1,7 @@
+{
+  /*
+    The directory containing your coffee binary. Usually
+    /usr/local/bin or /usr/bin.
+  */
+  "binDir": "/cygdrive/c/Users/MW/AppData/Roaming/npm/coffee"
+}

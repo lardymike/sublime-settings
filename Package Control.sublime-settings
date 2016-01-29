@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Gitignore"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"Better Completion",
+		"Better RSpec",
+		"Bootstrap 3 Snippets",
+		"Bower",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DeleteBlankLines",
+		"FreeMarker",
+		"Git",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"INI",
+		"LESS",
+		"LiveStyle",
+		"Markdown Preview",
+		"Package Control",
+		"Puppet",
+		"Readme-Helper",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-contrib-puppet",
+		"SublimeLinter-html-tidy",
+		"SyncedSideBar",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+	]
+}
